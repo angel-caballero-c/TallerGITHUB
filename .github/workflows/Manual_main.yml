@@ -1,3 +1,5 @@
+name: Prueba Manual
+
 on:
   workflow_dispatch:  # Disparador manual
 
